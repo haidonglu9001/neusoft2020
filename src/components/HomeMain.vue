@@ -1,6 +1,7 @@
 <template>
 	<div>
 		<h1>系统主页</h1>
+		<h2>欢迎使用OA管理系统</h2>
 	</div>
 </template>
 
